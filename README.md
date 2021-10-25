@@ -6,7 +6,7 @@ Se uso paquetes ingnorados:
 > EntityFramework.6.2.0
 > MetroModernUI.1.4.0.0
 
-ademas de ignoró capeta bin.
+Ademas de ignoró capeta bin.
 
 Muestra Real:
 <br/>
