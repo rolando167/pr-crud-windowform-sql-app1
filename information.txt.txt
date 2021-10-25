@@ -1,0 +1,32 @@
+25/10/2021
+-------------
+Crear CRUD en Windows Forms con C# .Net, Entity Framework y Sql Server
+
+https://www.youtube.com/watch?v=JAfg2j8qrsg&list=PLIyua1a92yWf6pbBJlxuNfhgvgZIEkgVW&index=9
+
+----------------
+El app es full, funciona al 100%
+
+----------------
+MetroFramework
+https://thielj.github.io/MetroFramework/
+----------------
+Get Date and time today:
+
+https://www.c-sharpcorner.com/blogs/current-date-and-time-in-c-sharp
+
+mostrar mensaje:
+https://www.c-sharpcorner.com/UploadFile/mahesh/understanding-message-box-in-windows-forms-using-C-Sharp/
+----------------
+FormBorderStyle FixedSingle : para que no pueda cambiar tamaño
+
+https://stackoverflow.com/questions/43183236/winform-form-border-issue-in-windows-10
+
+----------------Subir a GitHUb e usar gitIngore
+https://anexsoft.com/gitignore-para-nuestros-proyectos-de-visual-studio
+
+----------------
+
+----------------
+
+----------------
