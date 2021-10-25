@@ -25,7 +25,13 @@ https://stackoverflow.com/questions/43183236/winform-form-border-issue-in-window
 ----------------Subir a GitHUb e usar gitIngore
 https://anexsoft.com/gitignore-para-nuestros-proyectos-de-visual-studio
 
-----------------
+----------------App.config - en presentacion segun proyecto Real
+connectionstrings c# configuration xml
 
+https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/connection-strings-and-configuration-files
+https://blog.elmah.io/the-ultimate-guide-to-connection-strings-in-web-config/
+
+https://www.connectionstrings.com/store-connection-string-in-webconfig/
+https://estradawebgroup.com/Post/-Como-leer--obtener--la-cadena-de-conexion-desde-Web-Config-usando-C---y-VB-Net-/4157
 ----------------
 ----------------
